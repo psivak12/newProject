@@ -1,2 +1,1 @@
-{
-}
+consolw.log("hello world");
